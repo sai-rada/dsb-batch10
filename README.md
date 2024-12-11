@@ -7,3 +7,6 @@ My data science and analytics project
 3. R programing - `Pao Ying Chub`
 4. Looker Studio GA4 Dashboard
 5. Linear Regression Model using caret
+
+## Contact Me 
+reach out to me at nithichotima.rada@gmail.com
